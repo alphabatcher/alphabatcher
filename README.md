@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+How to reach me:
+Discord: alphabatcher
+X (twitter): x.com/alphabatcher
+
 <!--
 **alphabatcher/alphabatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
