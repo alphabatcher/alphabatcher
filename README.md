@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-How to reach me:
 Discord: alphabatcher
+
 X (twitter): x.com/alphabatcher
 
 <!--
